@@ -46,9 +46,10 @@ class Cart {
         }
                   return totalPrice;
     } 
-    public Order placeOrder() 
-    {
-        return
+    public Order placeOrder() {
+        return new Order(customerId, products);
     }
-    
 }
+   
+        
+ 
