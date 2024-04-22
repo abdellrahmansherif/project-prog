@@ -1,0 +1,26 @@
+Enter your customer ID:
+156326712
+Enter your name:
+abdo
+Enter your address:
+alex
+How many products do you want to order?
+6
+which proudct (1: Smartphone, 2: T-shirt, 3: oop):
+3
+which proudct (1: Smartphone, 2: T-shirt, 3: oop):
+2
+which proudct (1: Smartphone, 2: T-shirt, 3: oop):
+1
+which proudct (1: Smartphone, 2: T-shirt, 3: oop):
+2
+which proudct (1: Smartphone, 2: T-shirt, 3: oop):
+1
+which proudct (1: Smartphone, 2: T-shirt, 3: oop):
+2
+your total price is 1300$ USD. would you like to place the order? 1-yes or 2-no?
+121
+Order not placed, See you late dude
+Your total price is 1300$
+
+Process finished with exit code 0
